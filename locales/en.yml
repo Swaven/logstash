@@ -2,6 +2,7 @@
 #   |- means 'scalar block' useful for formatted text
 #   > means 'scalar block' but it chomps all newlines. Useful 
 #     for unformatted text.
+# GLAARGBLBRPFFRTGLEERR
 en:
   oops: |-
     +---------------------------------------------------------+
